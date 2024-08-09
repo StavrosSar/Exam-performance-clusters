@@ -34,11 +34,3 @@ The script produces several visualizations and outputs that provide insights int
 * Pie charts of average scores by cluster
 * Bar plots of number of schools in each cluster
 * Intersection of school names between two clusters
-
-**License**
-
-This script is licensed under the MIT License. Please see the LICENSE file for details.
-
-**Acknowledgments**
-
-This script is based on the 2012 SAT Results dataset, which is publicly available from the College Board website.
